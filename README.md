@@ -1,6 +1,6 @@
 # Credit Card Users Clustering - Overview
 This peoject was done on the dataset obtained from Kaggle
-Created a model that uses k-means clustering to group the data into clusters
+<br>Created a model that uses k-means clustering to group the data into clusters
 ## Code and Resources Used
 Python Version: 3.7
 Packages: pandas, numpy, sklearn, matplotlib, seaborn
